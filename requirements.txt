@@ -8,3 +8,7 @@ pytest
 pylint
 black
 pytest-cov
+torch
+torchvision
+torchaudio
+pytorch-lightning
