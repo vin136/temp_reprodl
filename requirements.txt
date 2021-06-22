@@ -10,4 +10,4 @@ click
 pylint
 black
 pytest-cov
-dvc
+"dvc[all]"
