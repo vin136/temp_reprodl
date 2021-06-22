@@ -1,0 +1,10 @@
+notebook
+matplotlib
+pandas
+ipywidgets
+pathlib
+click
+pytest
+pylint
+black
+pytest-cov
